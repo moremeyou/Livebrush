@@ -8,7 +8,7 @@ I have included the AIR Runtime installer for Mac in the release. For Windows an
 3. Install Livebrush
 
 ### Running
-Windows / Intal Mac: Launch the app like any other.
+Windows / Intel Mac: Launch the app like any other.
 M1 Macs: First, right-click the app. Then select "Get Info." Then CHECK "Open using Rosetta." Then run the app.
 
 For updates on the AIR runtime compatibility please visit [Harmon](https://airsdk.harman.com/runtime).
