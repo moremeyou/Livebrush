@@ -2,9 +2,7 @@
  Motion-based drawing AIR App (Windows + Mac).
 
 ### Installation
-1. Download the release: [Livebrush 1.5](https://github.com/moremeyou/Livebrush/releases/tag/1.5) (Mac AIR Runtime installer included). 
-
-For Windows and other updates, visit [Harmon](https://airsdk.harman.com/runtime) (who now maintains AIR). 
+1. Download the release: [Livebrush 1.5](https://github.com/moremeyou/Livebrush/releases/tag/1.5) (Mac AIR Runtime installer included). For Windows and other updates, visit [Harmon](https://airsdk.harman.com/runtime) (who now maintains AIR). 
 2. Install the AIR runtime.
 3. Install Livebrush
 
