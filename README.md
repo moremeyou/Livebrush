@@ -11,7 +11,7 @@ Windows / Intel Mac: Launch the app like any other.
 M1 Macs: First, right-click the app. Then select "Get Info." Then CHECK "Open using Rosetta." Then run the app.
 
 ### Documentation
-See the original [help files here](https://airsdk.harman.com/runtime).
+See the original [help files here](https://moremeyou.github.io/Livebrush/).
 
 For updates on the AIR runtime compatibility please visit [Harmon](https://airsdk.harman.com/runtime).
 
