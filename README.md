@@ -1,9 +1,9 @@
 # Livebrush
- A motion-based drawing Adobe AIR app I made in 2011 (Windows + Mac). Over a million downloads. Packaged with Wacom Bamboo tablets. 
- - [Tutorial 1](https://www.youtube.com/watch?v=Djd-6WjNBeI)
- - [Tutorial 2](https://www.youtube.com/watch?v=ZXLjpu6xBzI)
- - [Feature Demo](https://www.youtube.com/watch?v=O8dBwEHR4YI)
- - [Launch Promo](https://www.youtube.com/watch?v=MM1YDoywJ_g)
+A motion-based drawing Adobe AIR app I made in 2011 (Windows + Mac). Over a million downloads. Packaged with Wacom Bamboo tablets. 
+- [Tutorial 1](https://www.youtube.com/watch?v=Djd-6WjNBeI)
+- [Tutorial 2](https://www.youtube.com/watch?v=ZXLjpu6xBzI)
+- [Feature Demo](https://www.youtube.com/watch?v=O8dBwEHR4YI)
+- [Launch Promo](https://www.youtube.com/watch?v=MM1YDoywJ_g)
 
 ### Installation
 1. Download the release
@@ -22,9 +22,10 @@ M1 Macs
 	- Then run the app like normal
 
 ### Documentation / Help
-See the original [help files here](https://moremeyou.github.io/Livebrush/).
-
-For updates on the AIR runtime compatibility please visit [Harmon](https://airsdk.harman.com/runtime).
+- [Tutorial 1](https://www.youtube.com/watch?v=Djd-6WjNBeI)
+- [Tutorial 2](https://www.youtube.com/watch?v=ZXLjpu6xBzI)
+- See the original [help files here](https://moremeyou.github.io/Livebrush/).
+- For updates on the AIR runtime compatibility please visit [Harmon](https://airsdk.harman.com/runtime).
 
 ### About
 - Was my swan-song as a Flash dev/designer :(
