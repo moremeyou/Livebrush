@@ -15,6 +15,7 @@ A motion-based drawing Adobe AIR app I made in 2011 (Windows + Mac). Over a mill
 ### Running
 **Windows / Intel Mac**
 - Launch the app like any other
+
 **M1 Macs**
 - First, right-click the app
 - Then select "Get Info"
