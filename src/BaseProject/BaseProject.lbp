@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LiveBrushProject size="2" width="1024" height="768" name="BaseProject" date="08/03/82" version="1">
+  <styles>
+    <style xml="Smooth.xml"/>
+    <style xml="Smooth Loose.xml"/>
+    <style xml="Smooth Normal.xml"/>
+    <style xml="Straight.xml"/>
+    <style xml="Straight Normal.xml"/>
+    <style xml="Straight Width.xml"/>
+    <style xml="Smooth Colors.xml"/>
+    <style xml="Smooth Angle.xml"/>
+    <style xml="Smooth Width.xml"/>
+    <style xml="Smooth Thick Ends.xml"/>
+    <style xml="Floral Basic.xml"/>
+    <style xml="Floral Basic Thick Ends.xml"/>
+    <style xml="Floral Basic Leaf.xml"/>
+    <style xml="Floral Basic 2.xml"/>
+    <style xml="Floral Threads.xml"/>
+    <style xml="Floral Threads 2.xml"/>
+    <style xml="Floral Threads 3.xml"/>
+    <style xml="Floral Graphic Plain.xml"/>
+    <style xml="Floral Graphic Empty.xml"/>
+    <style xml="Floral Graphic Green.xml"/>
+    <style xml="Floral Graphic Collage.xml"/>
+    <style xml="Floral Graphic Collage Color.xml"/>
+    <style xml="Floral Graphic Collage Color 2.xml"/>
+    <style xml="Floral Graphic Collage Color 3.xml"/>
+    <style xml="Floral Celtic Thin.xml"/>
+    <style xml="Floral Celtic Thick.xml"/>
+    <style xml="Floral Celtic Pattern.xml"/>
+    <style xml="Floral Celtic Pattern 2.xml"/>
+    <style xml="Floral Celtic Pattern 3.xml"/>
+    <style xml="Life Branches Thin.xml"/>
+    <style xml="Life Branches Thick.xml"/>
+    <style xml="Ligatures 1.xml"/>
+    <style xml="Ligatures 2.xml"/>
+    <style xml="Ligatures 3.xml"/>
+    <style xml="Ligatures 4.xml"/>
+    <style xml="Ligatures 5.xml"/>
+    <style xml="Sketchy 1.xml"/>
+    <style xml="Sketchy 2.xml"/>
+    <style xml="Ink Splats.xml"/>
+    <style xml="Ink Splats Path.xml"/>
+    <style xml="Ink Path Thick.xml"/>
+    <style xml="Ink Path Drip.xml"/>
+    <style xml="Ink Path Thin.xml"/>
+    <style xml="Marker - Thin.xml"/>
+    <style xml="Marker - Medium.xml"/>
+    <style xml="Marker - Thick.xml"/>
+    <style xml="Graphic Tape.xml"/>
+    <style xml="Graphic Boombox.xml"/>
+    <style xml="Graphic Tentacle.xml"/>
+    <style xml="Graphic Tentacle Arms.xml"/>
+    <style xml="Geometry Small.xml"/>
+    <style xml="Geometry Small 2.xml"/>
+    <style xml="Geometry Big.xml"/>
+    <style xml="Geometry Origami.xml"/>
+    <style xml="Geometry Big 2.xml"/>
+    <style xml="Geometry Shatter Thin.xml"/>
+    <style xml="Geometry Shatter Thick.xml"/>
+    <style xml="Geometry Shatter Thick 2.xml"/>
+    <style xml="Geometry Big 3.xml"/>
+    <style xml="Geometry Raccoon.xml"/>
+    <style xml="Fractal Web (on black).xml"/>
+    <style xml="Fractal Nerves (on black).xml"/>
+    <style xml="Fractal Nodes (on black).xml"/>
+    <style xml="Fractal Nodes 2 (on black).xml"/>
+    <style xml="Fractal Crystal (on black).xml"/>
+    <style xml="Fractal Flower (on black).xml"/>
+    <style xml="Fractal Flower 2 (on black).xml"/>
+    <style xml="Fractal Paths (on black).xml"/>
+    <style xml="Fractal Paths 2 (on black).xml"/>
+    <style xml="Light Path (on black).xml"/>
+    <style xml="Light Streaks (on black).xml"/>
+    <style xml="Effect Smoke (on black).xml"/>
+    <style xml="Effect Smoke Smooth (on black).xml"/>
+    <style xml="Effect Smoke Color (on black).xml"/>
+    <style xml="Ribbon Snake.xml"/>
+    <style xml="Ribbon Candy.xml"/>
+    <style xml="Ribbon Candy 2.xml"/>
+    <style xml="Ribbon Candy 3.xml"/>
+    <style xml="Ribbon Green.xml"/>
+    <style xml="Ribbon Blue (on black).xml"/>
+    <style xml="Ribbon Step (on black).xml"/>
+    <style xml="Ribbon Step Straight (on black).xml"/>
+    <style xml="Ribbon Scarf.xml"/>
+    <style xml="Ribbon Scarf 2 (on black).xml"/>
+    <style xml="Ribbon Thick And Thin.xml"/>
+    <style xml="Ribbon Thick And Thin 2.xml"/>
+    <style xml="Ribbon Thick And Thin 3.xml"/>
+    <style xml="Ribbon Thick And Thin 4.xml"/>
+  </styles>
+  <layers>
+    <layer type="background" label="Background [LOCKED]" blendMode="layer" alpha="1" color="0" colorPercent="1">
+      <solid color="0"/>
+    </layer>
+  </layers>
+</LiveBrushProject>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style name="Floral Graphic Plain" type="style">
+  <line>
+    <type>elastic</type>
+    <inputSWF>SmoothRandBrushControl.swf</inputSWF>
+    <elastic>0.14</elastic>
+    <friction>0.6599999999999999</friction>
+    <drawSpeed>0.1,75</drawSpeed>
+    <smoothing>true</smoothing>
+    <mouseUpComplete>false</mouseUpComplete>
+  </line>
+  <stroke>
+    <strokeType>solid</strokeType>
+    <minWidth>5</minWidth>
+    <minAlpha>1</minAlpha>
+    <angleType>direction</angleType>
+    <minAngle>1</minAngle>
+    <maxAngle>180</maxAngle>
+    <angleSpeed>1</angleSpeed>
+    <widthSpeed>0.5</widthSpeed>
+    <maxWidth>1</maxWidth>
+    <lines>2</lines>
+    <weight>3</weight>
+    <alphaType>fixed</alphaType>
+    <colorType>fixed</colorType>
+    <colorSteps>40</colorSteps>
+    <colorList>
+      <color value="000000" enabled="true"/>
+      <color value="FF0000" enabled="false"/>
+      <color value="009900" enabled="false"/>
+    </colorList>
+    <maxAlpha>1</maxAlpha>
+    <widthType>speed</widthType>
+    <alphaSpeed>0.05</alphaSpeed>
+    <thresholds>
+      <speed enabled="false">1,0</speed>
+      <width enabled="false">0,0</width>
+      <angle enabled="false">23,360</angle>
+      <distance enabled="true">50,200</distance>
+      <random enabled="false">null,0</random>
+      <interval enabled="true">120</interval>
+    </thresholds>
+  </stroke>
+  <deco>
+    <decoList>
+      <deco value="stringy_01.swf" enabled="true"/>
+      <deco value="stringy_02.swf" enabled="true"/>
+      <deco value="stringy_03.swf" enabled="true"/>
+      <deco value="stringy_04.swf" enabled="true"/>
+      <deco value="stringy_05.swf" enabled="true"/>
+      <deco value="stringy_06.swf" enabled="true"/>
+      <deco value="stringy_07.swf" enabled="true"/>
+      <deco value="stringy_08.swf" enabled="true"/>
+      <deco value="stringy_09.swf" enabled="true"/>
+    </decoList>
+    <orderType>random</orderType>
+    <selectedDecoIndex>2</selectedDecoIndex>
+    <decoNum>1</decoNum>
+    <alignType>corner</alignType>
+    <persist>true</persist>
+    <posType>alt</posType>
+    <minPos>0.3</minPos>
+    <maxPos>0.7</maxPos>
+    <posSpeed>2.508</posSpeed>
+    <angleType>strokeDirection</angleType>
+    <autoFlip>true</autoFlip>
+    <minAngle>1</minAngle>
+    <maxAngle>180</maxAngle>
+    <angleSpeed>1</angleSpeed>
+    <sizeType>speed</sizeType>
+    <minSize>0.25</minSize>
+    <maxSize>1.5</maxSize>
+    <sizeSpeed>0.25</sizeSpeed>
+    <sizeType>speed</sizeType>
+    <minSize>0.25</minSize>
+    <maxSize>1.5</maxSize>
+    <sizeSpeed>0.25</sizeSpeed>
+    <colorType>stroke</colorType>
+    <colorSteps>25</colorSteps>
+    <colorList>
+      <color value="99FF33" enabled="true"/>
+      <color value="FF00FF" enabled="false"/>
+    </colorList>
+    <tintType>fixed</tintType>
+    <minTint>0</minTint>
+    <maxTint>1</maxTint>
+    <tintSpeed>0.25</tintSpeed>
+    <alphaType>fixed</alphaType>
+    <minAlpha>1</minAlpha>
+    <maxAlpha>1</maxAlpha>
+    <alphaSpeed>0.25</alphaSpeed>
+  </deco>
+</style>

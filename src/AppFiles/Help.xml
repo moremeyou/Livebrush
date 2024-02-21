@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HELP_ITEMS>
+	<ITEM ID="main">index.html</ITEM>
+		<!-- importing, exporting, zipping, uploading to forum, create decos -->
+
+	<ITEM ID="start">start.html</ITEM>
+		<ITEM ID="drawing">start.html#drawing</ITEM>
+		<ITEM ID="project">start.html#project</ITEM>
+			<!-- saving, opening -->
+		<ITEM ID="editing">start.html#editing</ITEM>
+			<!-- removing decos, attaching decos -->
+		<ITEM ID="share">start.html#share</ITEM>
+			<!-- importing, exporting, zipping, uploading to forum, create decos -->
+		<ITEM ID="import">start.html#import</ITEM>
+		<ITEM ID="export">start.html#export</ITEM>
+		
+	<ITEM ID="gui">gui.html</ITEM><!-- expanding, collapsing -->
+		<ITEM ID="projectBar">gui.html#projectBar</ITEM>
+		<ITEM ID="styleProps">gui.html#stylePanel</ITEM>
+		<ITEM ID="layerProps">gui.html#layerPanel</ITEM>
+		<ITEM ID="toolProps">gui.html#toolPanel</ITEM>
+		<ITEM ID="prefs">gui.html#prefs</ITEM>
+		<ITEM ID="globalColor">gui.html#globalColor</ITEM>
+	
+	<ITEM ID="tools">tools.html</ITEM>
+		<ITEM ID="brushTool">tools.html#brush</ITEM>
+		<ITEM ID="penTool">tools.html#pen</ITEM>
+		<ITEM ID="transformTool">tools.html#transform</ITEM>
+			<ITEM ID="transformControl">tools.html#transformControl</ITEM>
+			<ITEM ID="transformInput">tools.html#transformInput</ITEM>
+			<ITEM ID="transformColor">tools.html#transformColor</ITEM>
+		<ITEM ID="bucketTool">tools.html#bucket</ITEM>
+		<ITEM ID="sampleTool">tools.html#sample</ITEM>
+	
+	<ITEM ID="brushStyles">brushStyles.html</ITEM>
+		<ITEM ID="preview">brushStyles.html#preview</ITEM>
+		<ITEM ID="behavior">brushStyles.html#behavior</ITEM>
+		<ITEM ID="behaveType">brushStyles.html#behaveType</ITEM>
+		<ITEM ID="dynamicInput">brushStyles.html#dynamicInput</ITEM>
+		<ITEM ID="liveControls">brushStyles.html#liveControls</ITEM>
+		<ITEM ID="decoThresholds">brushStyles.html#decoThresholds</ITEM>
+		<ITEM ID="drawSpeed">brushStyles.html#drawSpeed</ITEM>
+		
+		<ITEM ID="line">brushStyles.html#line</ITEM>
+		<ITEM ID="lineType">brushStyles.html#lineType</ITEM>
+		<ITEM ID="strokeType">brushStyles.html#strokeType</ITEM>
+		<ITEM ID="lineWidth">brushStyles.html#lineWidth</ITEM>
+		<ITEM ID="lineAngle">brushStyles.html#lineAngle</ITEM>
+		<ITEM ID="lineOpacity">brushStyles.html#lineOpacity</ITEM>
+		<ITEM ID="lineColors">brushStyles.html#lineColors</ITEM>
+	
+		<ITEM ID="decorations">brushStyles.html#decorations</ITEM><!-- supported -->
+		<ITEM ID="decoList">brushStyles.html#decoList</ITEM>
+		<ITEM ID="decoAlignType">brushStyles.html#decoAlignType</ITEM>
+		<ITEM ID="decoPosition">brushStyles.html#decoPosition</ITEM>
+		<ITEM ID="decoAngle">brushStyles.html#decoAngle</ITEM>
+		<ITEM ID="decoScale">brushStyles.html#decoScale</ITEM>
+		<ITEM ID="decoOpacity">brushStyles.html#decoOpacity</ITEM>
+		<ITEM ID="decoColorAmount">brushStyles.html#decoColorAmount</ITEM>
+		<ITEM ID="decoColors">brushStyles.html#decoColors</ITEM>
+		
+	<ITEM ID="supportForum">forum/support.html</ITEM>
+
+	<ITEM ID="feedback">../feedback.html</ITEM>
+
+	<ITEM ID="about">../about.html</ITEM>
+</HELP_ITEMS>

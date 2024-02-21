@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style name="Floral Basic Thick Ends" type="style">
+  <line>
+    <type>elastic</type>
+    <inputSWF>SmoothRandBrushControl.swf</inputSWF>
+    <elastic>0.4</elastic>
+    <friction>0.5</friction>
+    <drawSpeed>0.1,50</drawSpeed>
+    <smoothing>true</smoothing>
+    <mouseUpComplete>false</mouseUpComplete>
+  </line>
+  <stroke>
+    <strokeType>solid</strokeType>
+    <minWidth>30</minWidth>
+    <minAlpha>1</minAlpha>
+    <angleType>direction</angleType>
+    <minAngle>1</minAngle>
+    <maxAngle>180</maxAngle>
+    <angleSpeed>1</angleSpeed>
+    <widthSpeed>0.05</widthSpeed>
+    <maxWidth>5</maxWidth>
+    <lines>2</lines>
+    <weight>3</weight>
+    <alphaType>fixed</alphaType>
+    <colorType>fixed</colorType>
+    <colorSteps>40</colorSteps>
+    <colorList>
+      <color value="000000" enabled="true"/>
+      <color value="FF0000" enabled="true"/>
+      <color value="009900" enabled="false"/>
+    </colorList>
+    <colorHold>1</colorHold>
+    <maxAlpha>1</maxAlpha>
+    <widthType>speed</widthType>
+    <alphaSpeed>0.05</alphaSpeed>
+    <thresholds>
+      <speed enabled="true">5,1000</speed>
+      <width enabled="false">0,40</width>
+      <angle enabled="false">23,180</angle>
+      <distance enabled="true">100,500</distance>
+      <random enabled="false">null,2</random>
+      <interval enabled="true">10</interval>
+    </thresholds>
+  </stroke>
+  <deco>
+    <decoList>
+      <deco value="Basic_04.swf" enabled="true"/>
+      <deco value="Basic_12.swf" enabled="true"/>
+      <deco value="Basic_13.swf" enabled="true"/>
+    </decoList>
+    <orderType>random</orderType>
+    <selectedDecoIndex>0</selectedDecoIndex>
+    <decoNum>1</decoNum>
+    <decoHold>1</decoHold>
+    <alignType>corner</alignType>
+    <persist>true</persist>
+    <posType>alt</posType>
+    <minPos>0</minPos>
+    <maxPos>1</maxPos>
+    <posSpeed>2.508</posSpeed>
+    <angleType>strokeDirection</angleType>
+    <autoFlip>true</autoFlip>
+    <minAngle>0</minAngle>
+    <maxAngle>180</maxAngle>
+    <angleSpeed>1</angleSpeed>
+    <sizeType>speed</sizeType>
+    <minSize>2</minSize>
+    <maxSize>0.25</maxSize>
+    <sizeSpeed>0.25</sizeSpeed>
+    <sizeType>speed</sizeType>
+    <minSize>2</minSize>
+    <maxSize>0.25</maxSize>
+    <sizeSpeed>0.25</sizeSpeed>
+    <colorType>stroke</colorType>
+    <colorSteps>25</colorSteps>
+    <colorList>
+      <color value="99CC00" enabled="true"/>
+      <color value="FF00FF" enabled="true"/>
+    </colorList>
+    <colorHold>1</colorHold>
+    <tintType>fixed</tintType>
+    <minTint>1</minTint>
+    <maxTint>1</maxTint>
+    <tintSpeed>0.25</tintSpeed>
+    <alphaType>fixed</alphaType>
+    <minAlpha>1</minAlpha>
+    <maxAlpha>1</maxAlpha>
+    <alphaSpeed>0.25</alphaSpeed>
+  </deco>
+</style>

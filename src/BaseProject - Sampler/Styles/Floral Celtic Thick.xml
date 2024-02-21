@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style name="Floral Celtic Thick" type="style">
+  <line>
+    <type>elastic</type>
+    <inputSWF>SmoothRandBrushControl.swf</inputSWF>
+    <elastic>0.49</elastic>
+    <friction>0.6599999999999999</friction>
+    <drawSpeed>0.1,75</drawSpeed>
+    <smoothing>true</smoothing>
+    <mouseUpComplete>true</mouseUpComplete>
+  </line>
+  <stroke>
+    <strokeType>solid</strokeType>
+    <minWidth>1</minWidth>
+    <minAlpha>1</minAlpha>
+    <angleType>direction</angleType>
+    <minAngle>1</minAngle>
+    <maxAngle>180</maxAngle>
+    <angleSpeed>1</angleSpeed>
+    <widthSpeed>1</widthSpeed>
+    <maxWidth>50</maxWidth>
+    <lines>2</lines>
+    <weight>3</weight>
+    <alphaType>fixed</alphaType>
+    <colorType>fixed</colorType>
+    <colorSteps>40</colorSteps>
+    <colorList>
+      <color value="99FF33" enabled="true"/>
+      <color value="FF0000" enabled="false"/>
+      <color value="009900" enabled="false"/>
+    </colorList>
+    <maxAlpha>1</maxAlpha>
+    <widthType>osc</widthType>
+    <alphaSpeed>0.05</alphaSpeed>
+    <thresholds>
+      <speed enabled="false">1,0</speed>
+      <width enabled="false">0,0</width>
+      <angle enabled="false">23,360</angle>
+      <distance enabled="true">100,1000</distance>
+      <random enabled="false">null,0</random>
+      <interval enabled="true">10</interval>
+    </thresholds>
+  </stroke>
+  <deco>
+    <decoList>
+      <deco value="testdeco-05.swf" enabled="true"/>
+    </decoList>
+    <orderType>fixed</orderType>
+    <selectedDecoIndex>0</selectedDecoIndex>
+    <decoNum>1</decoNum>
+    <alignType>corner</alignType>
+    <persist>true</persist>
+    <posType>alt</posType>
+    <minPos>0.3</minPos>
+    <maxPos>0.7</maxPos>
+    <posSpeed>2.508</posSpeed>
+    <angleType>strokeDirection</angleType>
+    <autoFlip>true</autoFlip>
+    <minAngle>1</minAngle>
+    <maxAngle>180</maxAngle>
+    <angleSpeed>1</angleSpeed>
+    <sizeType>strokeWidth</sizeType>
+    <minSize>0.5</minSize>
+    <maxSize>1.5</maxSize>
+    <sizeSpeed>0.25</sizeSpeed>
+    <sizeType>strokeWidth</sizeType>
+    <minSize>0.5</minSize>
+    <maxSize>1.5</maxSize>
+    <sizeSpeed>0.25</sizeSpeed>
+    <colorType>stroke</colorType>
+    <colorSteps>25</colorSteps>
+    <colorList>
+      <color value="99FF33" enabled="true"/>
+      <color value="FF00FF" enabled="false"/>
+    </colorList>
+    <tintType>fixed</tintType>
+    <minTint>1</minTint>
+    <maxTint>1</maxTint>
+    <tintSpeed>0.25</tintSpeed>
+    <alphaType>fixed</alphaType>
+    <minAlpha>1</minAlpha>
+    <maxAlpha>1</maxAlpha>
+    <alphaSpeed>0.25</alphaSpeed>
+  </deco>
+</style>

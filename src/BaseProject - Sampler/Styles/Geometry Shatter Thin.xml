@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style name="Geometry Shatter Thin" type="style">
+  <line>
+    <type>normal</type>
+    <inputSWF>SmoothRandBrushControl.swf</inputSWF>
+    <elastic>0.52</elastic>
+    <friction>0.61</friction>
+    <drawSpeed>0.01,75</drawSpeed>
+    <smoothing>false</smoothing>
+    <mouseUpComplete>false</mouseUpComplete>
+  </line>
+  <stroke>
+    <strokeType>solid</strokeType>
+    <minWidth>0</minWidth>
+    <minAlpha>0</minAlpha>
+    <angleType>rotate</angleType>
+    <minAngle>0</minAngle>
+    <maxAngle>360</maxAngle>
+    <angleSpeed>50</angleSpeed>
+    <widthSpeed>2</widthSpeed>
+    <maxWidth>100</maxWidth>
+    <lines>2</lines>
+    <weight>2</weight>
+    <alphaType>random</alphaType>
+    <colorType>fixed</colorType>
+    <colorSteps>5</colorSteps>
+    <colorList>
+      <color value="330066" enabled="true"/>
+      <color value="FFFFFF" enabled="false"/>
+      <color value="C20AC2" enabled="false"/>
+    </colorList>
+    <maxAlpha>1</maxAlpha>
+    <widthType>osc</widthType>
+    <alphaSpeed>1</alphaSpeed>
+    <thresholds>
+      <speed enabled="false">1,0</speed>
+      <width enabled="false">0,0</width>
+      <angle enabled="false">23,360</angle>
+      <distance enabled="false">100,1000</distance>
+      <random enabled="true">null,3</random>
+      <interval enabled="true">10</interval>
+    </thresholds>
+  </stroke>
+  <deco>
+    <decoList>
+      <deco value="triangle1.swf" enabled="true"/>
+      <deco value="triangle2.swf" enabled="true"/>
+    </decoList>
+    <orderType>random</orderType>
+    <selectedDecoIndex>0</selectedDecoIndex>
+    <decoNum>3</decoNum>
+    <alignType>corner</alignType>
+    <persist>true</persist>
+    <posType>scatter</posType>
+    <minPos>0</minPos>
+    <maxPos>50</maxPos>
+    <posSpeed>2.508</posSpeed>
+    <angleType>random</angleType>
+    <autoFlip>true</autoFlip>
+    <minAngle>1</minAngle>
+    <maxAngle>360</maxAngle>
+    <angleSpeed>1</angleSpeed>
+    <sizeType>random</sizeType>
+    <minSize>0.05</minSize>
+    <maxSize>0.5</maxSize>
+    <sizeSpeed>0.25</sizeSpeed>
+    <sizeType>random</sizeType>
+    <minSize>0.05</minSize>
+    <maxSize>0.5</maxSize>
+    <sizeSpeed>0.25</sizeSpeed>
+    <colorType>stroke</colorType>
+    <colorSteps>25</colorSteps>
+    <colorList>
+      <color value="FFFFFF" enabled="true"/>
+      <color value="FF00FF" enabled="true"/>
+    </colorList>
+    <tintType>fixed</tintType>
+    <minTint>1</minTint>
+    <maxTint>1</maxTint>
+    <tintSpeed>0.25</tintSpeed>
+    <alphaType>osc</alphaType>
+    <minAlpha>0.25</minAlpha>
+    <maxAlpha>1</maxAlpha>
+    <alphaSpeed>0.5</alphaSpeed>
+  </deco>
+</style>

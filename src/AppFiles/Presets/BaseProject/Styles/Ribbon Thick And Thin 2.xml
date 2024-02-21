@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style name="Ribbon Thick And Thin 2" type="style">
+  <line>
+    <type>elastic</type>
+    <inputSWF>SmoothRandBrushControl.swf</inputSWF>
+    <elastic>0.59</elastic>
+    <friction>0.49</friction>
+    <drawSpeed>0.1,100</drawSpeed>
+    <smoothing>true</smoothing>
+    <mouseUpComplete>true</mouseUpComplete>
+  </line>
+  <stroke>
+    <strokeType>solid</strokeType>
+    <minWidth>1</minWidth>
+    <minAlpha>1</minAlpha>
+    <angleType>direction</angleType>
+    <minAngle>0</minAngle>
+    <maxAngle>360</maxAngle>
+    <angleSpeed>25</angleSpeed>
+    <widthSpeed>0.5</widthSpeed>
+    <maxWidth>100</maxWidth>
+    <lines>50</lines>
+    <weight>1</weight>
+    <alphaType>fixed</alphaType>
+    <colorType>list</colorType>
+    <colorSteps>30</colorSteps>
+    <colorList>
+      <color value="E68019" enabled="true"/>
+      <color value="D9D926" enabled="true"/>
+      <color value="E68019" enabled="true"/>
+    </colorList>
+    <colorHold>1</colorHold>
+    <maxAlpha>1</maxAlpha>
+    <widthType>osc</widthType>
+    <alphaSpeed>0.1</alphaSpeed>
+    <thresholds>
+      <speed enabled="false">0,0</speed>
+      <width enabled="false">0,0</width>
+      <angle enabled="false">0,0</angle>
+      <distance enabled="false">0,0</distance>
+      <random enabled="false">null,5</random>
+      <interval enabled="true">150</interval>
+    </thresholds>
+  </stroke>
+  <deco>
+    <decoList/>
+    <orderType>sequence</orderType>
+    <selectedDecoIndex>0</selectedDecoIndex>
+    <decoNum>1</decoNum>
+    <decoHold>1</decoHold>
+    <alignType>corner</alignType>
+    <persist>true</persist>
+    <posType>alt</posType>
+    <minPos>0.1</minPos>
+    <maxPos>0.9</maxPos>
+    <posSpeed>2.508</posSpeed>
+    <angleType>strokeDirection</angleType>
+    <autoFlip>true</autoFlip>
+    <minAngle>0</minAngle>
+    <maxAngle>180</maxAngle>
+    <angleSpeed>1</angleSpeed>
+    <sizeType>strokeWidth</sizeType>
+    <minSize>0.1</minSize>
+    <maxSize>0.25</maxSize>
+    <sizeSpeed>0.25</sizeSpeed>
+    <sizeType>strokeWidth</sizeType>
+    <minSize>0.1</minSize>
+    <maxSize>0.25</maxSize>
+    <sizeSpeed>0.25</sizeSpeed>
+    <colorType>stroke</colorType>
+    <colorSteps>25</colorSteps>
+    <colorList>
+      <color value="99CC00" enabled="true"/>
+      <color value="FF00FF" enabled="false"/>
+    </colorList>
+    <colorHold>1</colorHold>
+    <tintType>fixed</tintType>
+    <minTint>1</minTint>
+    <maxTint>1</maxTint>
+    <tintSpeed>0.25</tintSpeed>
+    <alphaType>fixed</alphaType>
+    <minAlpha>1</minAlpha>
+    <maxAlpha>1</maxAlpha>
+    <alphaSpeed>0.25</alphaSpeed>
+  </deco>
+</style>

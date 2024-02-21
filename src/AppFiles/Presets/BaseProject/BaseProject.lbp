@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LiveBrushProject size="2" width="1024" height="768" name="BaseProject" version="1">
+  <styles>
+    <style xml="Smooth - Width - Pressure.xml"/>
+    <style xml="Loose - Width - Pressure.xml"/>
+    <style xml="Splats - Alpha - Pressure.xml"/>
+    <style xml="Graphic - Size - Pressure.xml"/>
+    <style xml="Graphic - Color - Pressure.xml"/>
+    <style xml="Geometry - Size - Pressure.xml"/>
+    <style xml="Thick Ends - Pressure.xml"/>
+    <style xml="Smooth.xml"/>
+    <style xml="Smooth Loose.xml"/>
+    <style xml="Smooth Normal.xml"/>
+    <style xml="Straight.xml"/>
+    <style xml="Straight Normal.xml"/>
+    <style xml="Straight Width.xml"/>
+    <style xml="Smooth Colors.xml"/>
+    <style xml="Smooth Angle.xml"/>
+    <style xml="Smooth Thick Ends.xml"/>
+    <style xml="Floral Basic.xml"/>
+    <style xml="Floral Basic Thick Ends.xml"/>
+    <style xml="Floral Threads.xml"/>
+    <style xml="Floral Graphic Plain.xml"/>
+    <style xml="Floral Celtic Thin.xml"/>
+    <style xml="Floral Celtic Thick.xml"/>
+    <style xml="Life Branches Thick.xml"/>
+    <style xml="Ligatures 1.xml"/>
+    <style xml="Sketchy 1.xml"/>
+    <style xml="Ink Splats.xml"/>
+    <style xml="Ink Path Thick.xml"/>
+    <style xml="Ink Path Drip.xml"/>
+    <style xml="Ink Path Thin.xml"/>
+    <style xml="Marker - Medium.xml"/>
+    <style xml="Geometry Small.xml"/>
+    <style xml="Geometry Origami.xml"/>
+    <style xml="Geometry Shatter Thin.xml"/>
+    <style xml="Geometry Raccoon.xml"/>
+    <style xml="Fractal Nerves (on black).xml"/>
+    <style xml="Fractal Nodes (on black).xml"/>
+    <style xml="Fractal Crystal (on black).xml"/>
+    <style xml="Fractal Paths (on black).xml"/>
+    <style xml="Light Path (on black).xml"/>
+    <style xml="Effect Smoke (on black).xml"/>
+    <style xml="Effect Smoke Smooth (on black).xml"/>
+    <style xml="Ribbon Snake.xml"/>
+    <style xml="Ribbon Candy.xml"/>
+    <style xml="Ribbon Green.xml"/>
+    <style xml="Ribbon Blue (on black).xml"/>
+    <style xml="Ribbon Thick And Thin 2.xml"/>
+  </styles>
+  <layers>
+    <layer type="background" label="Background [LOCKED]" blendMode="layer" alpha="1" color="0" colorPercent="1">
+      <solid color="0"/>
+    </layer>
+  </layers>
+</LiveBrushProject>
