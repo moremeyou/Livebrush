@@ -5,7 +5,6 @@
  - [Feature Demo](https://www.youtube.com/watch?v=O8dBwEHR4YI)
  - [Launch Promo](https://www.youtube.com/watch?v=MM1YDoywJ_g)
 
-
 ### Installation
 1. Download the release: [Livebrush 1.5](https://github.com/moremeyou/Livebrush/releases/tag/1.5) (Mac AIR Runtime installer included). For Windows and other updates, visit [Harmon](https://airsdk.harman.com/runtime) (who now maintains AIR). 
 2. Install the AIR runtime.
@@ -19,9 +18,6 @@ M1 Macs: First, right-click the app. Then select "Get Info." Then CHECK "Open us
 See the original [help files here](https://moremeyou.github.io/Livebrush/).
 
 For updates on the AIR runtime compatibility please visit [Harmon](https://airsdk.harman.com/runtime).
-
-### Source files
-Coming soon!
 
 ### About
 Coming soon!
