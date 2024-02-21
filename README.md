@@ -6,13 +6,20 @@
  - [Launch Promo](https://www.youtube.com/watch?v=MM1YDoywJ_g)
 
 ### Installation
-1. Download the release: [Livebrush 1.5](https://github.com/moremeyou/Livebrush/releases/tag/1.5) (Mac AIR Runtime installer included). For Windows and other updates, visit [Harmon](https://airsdk.harman.com/runtime) (who now maintains AIR). 
-2. Install the AIR runtime.
+1. Download the release
+	- [Livebrush 1.5](https://github.com/moremeyou/Livebrush/releases/tag/1.5) 
+2. Install the AIR runtime
+	- If AIR runtime is out of date, visit [Harmon](https://airsdk.harman.com/runtime) (who now maintains AIR). 
 3. Install Livebrush
 
 ### Running
-Windows / Intel Mac: Launch the app like any other.
-M1 Macs: First, right-click the app. Then select "Get Info." Then CHECK "Open using Rosetta." Then run the app.
+Windows / Intel Mac
+	- Launch the app like any other
+M1 Macs
+	- First, right-click the app
+	- Then select "Get Info"
+	- Then check "Open using Rosetta"
+	- Then run the app like normal
 
 ### Documentation / Help
 See the original [help files here](https://moremeyou.github.io/Livebrush/).
@@ -20,6 +27,12 @@ See the original [help files here](https://moremeyou.github.io/Livebrush/).
 For updates on the AIR runtime compatibility please visit [Harmon](https://airsdk.harman.com/runtime).
 
 ### About
-Coming soon!
 - Was my swan-song as a Flash dev/designer :(
+- Full background and story coming soon!
+	- Flash
+	- Early Flash influencers
+	- Macromedia and Adobe
+	- FITC and FlashInTO
+	- My presentations
+	- Ny game company and the TwistedHumor controversy
 
