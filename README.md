@@ -13,13 +13,13 @@ A motion-based drawing Adobe AIR app I made in 2011 (Windows + Mac). Over a mill
 3. Install Livebrush
 
 ### Running
-Windows / Intel Mac
-	- Launch the app like any other
-M1 Macs
-	- First, right-click the app
-	- Then select "Get Info"
-	- Then check "Open using Rosetta"
-	- Then run the app like normal
+**Windows / Intel Mac**
+- Launch the app like any other
+**M1 Macs**
+- First, right-click the app
+- Then select "Get Info"
+- Then check "Open using Rosetta"
+- Then run the app like normal
 
 ### Documentation / Help
 - [Tutorial 1](https://www.youtube.com/watch?v=Djd-6WjNBeI)
