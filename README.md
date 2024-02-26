@@ -32,6 +32,7 @@ A motion-based drawing Adobe AIR app I made in 2011 (Windows + Mac). Over a mill
 - Was my swan-song as a Flash dev/designer :(
 - Full background and story coming soon!
 	- Flash
+	- Supernova
 	- Early Flash influencers
 	- Macromedia and Adobe
 	- FITC and FlashInTO
